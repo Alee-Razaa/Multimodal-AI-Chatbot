@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  },
+  "dependencies": {
+    "formik": "^2.4.6",
+    "yup": "^1.6.1"
+  }
+}
