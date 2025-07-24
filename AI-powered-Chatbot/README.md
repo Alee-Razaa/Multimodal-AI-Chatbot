@@ -1,6 +1,6 @@
 # 🤖 MMC AI – Multimodal AI Chatbot Hub
 
-A unified web-based platform integrating state-of-the-art AI capabilities including Google Gemini, OpenRouter (GPT, Mistral), Stability AI, Text-to-Speech (TTS), and Optical Character Recognition (OCR). Built with React, Node.js, Python microservices, and Tailwind CSS — designed to serve students, professionals, and creators through a seamless AI experience.
+A unified web-based platform integrating state-of-the-art AI capabilities, including Google Gemini, OpenRouter (GPT, Mistral), Stability AI, Text-to-Speech (TTS), and Optical Character Recognition (OCR). Built with React, Node.js, Python microservices, and Tailwind CSS — designed to serve students, professionals, and creators through a seamless AI experience.
 
 ![MIT License](https://img.shields.io/badge/license-MIT-green)
 ![React](https://img.shields.io/badge/frontend-React-blue)
@@ -134,15 +134,18 @@ EMAIL_PASS=your_email_password
 - 🧠 Add voice input support
 - 🧠 Add OpenAI Whisper for audio-to-text
 - 🌍 Deploy to Vercel (frontend) and Railway (backend)
-- 🔁 Add conversation export feature (PDF / markdown)
+- 🔁 Add conversation export feature (PDF/markdown)
 - 📱 Make it fully responsive for mobile users
 
 ---
 
 ## 👨‍💻 Authors
 
-- **Aadil Shah** 
-- **Waseem Mazari**
+- **Ali Raza Memon** – AI integrations (Gemini, OpenRouter, Stability AI), chat logic & model coordination 
+- **Aadil Shah** – Backend development (Node.js, MongoDB, JWT auth, email services), Python microservices
+- **Waseem Mazari** – Frontend development (React, Tailwind, Redux, UI/UX flow)
+  
+ 
 
 ---
 
