@@ -62,7 +62,7 @@ A unified web-based platform integrating state-of-the-art AI capabilities, inclu
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/AadilShahDev/AI-powered-Chatbot.git
+git clone https://github.com/Alee-Razaa/AI-powered-Chatbot.git
 cd AI-powered-Chatbot
 ```
 
